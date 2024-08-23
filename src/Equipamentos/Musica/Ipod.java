@@ -1,6 +1,6 @@
-package Equipamentos.Musica;
+package equipamentos.musica;
 
-public class ipod implements ReproduzirMusica {
+public class Ipod implements ReproduzirMusica {
     @Override
     public void tocar(){
         System.out.println("Música Tocando");

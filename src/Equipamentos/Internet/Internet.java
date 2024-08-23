@@ -1,4 +1,4 @@
-package Equipamentos.Internet;
+package equipamentos.internet;
 
 public interface Internet {
 

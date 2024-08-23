@@ -1,4 +1,4 @@
-package Equipamentos.Musica;
+package equipamentos.musica;
 
 public interface ReproduzirMusica {
 

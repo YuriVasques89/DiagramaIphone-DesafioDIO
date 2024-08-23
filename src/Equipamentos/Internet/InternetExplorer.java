@@ -1,4 +1,4 @@
-package Equipamentos.Internet;
+package equipamentos.internet;
 
 
 public class InternetExplorer implements Internet {

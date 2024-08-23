@@ -1,6 +1,6 @@
 package Equipamentos.Telefone;
 
-public class UnboxingLG implements Telefone {
+public class Nokia implements Telefone {
     @Override
     public void ligar() {
         System.out.println("Ligando");
